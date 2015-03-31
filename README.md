@@ -1,2 +1,2 @@
 # Guestbook
-Can I have your signature?
+Make a pull request to add your name!!!
